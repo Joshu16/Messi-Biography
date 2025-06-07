@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Morganite';
-    src: url('/Morganite-Black.ttf') format('truetype');
+    src: url('Morganite-Black.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
